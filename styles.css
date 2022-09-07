@@ -35,7 +35,7 @@ body::-webkit-scrollbar-thumb {
 
 .subtitle {
     text-align: center;
-    padding-bottom: 5px;
+    padding: 0 1rem;
     margin: 4rem auto 1rem auto;
     font-size: 2.5rem;
 }

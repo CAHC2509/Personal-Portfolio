@@ -355,7 +355,7 @@ nav {
     #menu-button {
         margin-right: 1rem;
         font-size: 2rem;
-        color: var(--second-color);
+        color: var(--third-color);
     }
     
     .nav-menu {
